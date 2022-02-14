@@ -1,0 +1,148 @@
+body {
+    font-family: "Big Shoulders Display";
+    font-family: "Lexend Deca";
+}
+
+#top {
+    padding-top: 171px;
+    padding-bottom: 129px;
+}
+
+.Sedans {
+    background-color: #E28625;
+    border-radius: 8px;
+}
+
+.SUVs {
+    background-color: #006971;
+    /* border-radius: 8px; */
+}
+
+.Luxury {
+    background-color: #004140;
+    border-radius: 8px;
+}
+
+.image {
+    margin-top: 48px;
+    margin-left: 48px;
+}
+
+h1 {
+    margin-top: 25px;
+    margin-left: 48px;
+    font-family: 'Big Shoulders Display';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    color: #F2F2F2;
+    text-transform: uppercase;
+}
+
+p {
+    width: 212px;
+    height: 125px;
+    margin-top: 35px;
+    margin-left: 47.5px;
+    margin-right: 47.5px;
+    margin-bottom: 83px;
+    color: #FFFFFF;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.button1 {
+    width: 146px;
+    height: 48px;
+    border-radius: 25px;
+    border: 2px solid white;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 25px;
+    color: #E28625;
+    margin-left: 48px;
+    margin-bottom: 48px;
+    margin-right: 113px;
+}
+
+.button1:hover {
+    background-color: #E28625;
+    border: 1px solid white;
+    color: white;
+    box-shadow: none;
+}
+
+.button1:active {
+    background-color: #E28625;
+    border: 1px solid white;
+    color: white;
+    box-shadow: none;
+}
+
+.button2 {
+    width: 146px;
+    height: 48px;
+    border-radius: 25px;
+    border: 2px solid white;
+    color: #006971;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 25px;
+    margin-left: 48px;
+    margin-bottom: 48px;
+    margin-right: 113px;
+
+}
+
+.button2:hover {
+    background-color: #006971;
+    border: 1px solid white;
+    color: white;
+    box-shadow: none;
+}
+
+.button2:active {
+    background-color: #006971;
+    border: 1px solid white;
+    color: white;
+    box-shadow: none;
+}
+
+.button3 {
+    width: 146px;
+    height: 48px;
+    border-radius: 25px;
+    border: 2px solid white;
+    color: #004140;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 25px;
+    margin-left: 48px;
+    margin-bottom: 48px;
+    margin-right: 113px;
+
+}
+
+.button3:hover {
+    background-color: #004140;
+    border: 1px solid white;
+    color: white;
+    box-shadow: none;
+}
+
+.button3:active {
+    background-color: #004140;
+    border: 1px solid white;
+    color: white;
+    box-shadow: none;
+}
