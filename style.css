@@ -9,16 +9,23 @@ body {
 }
 
 .Sedans {
+    width: 307px;
+    height: 500px;
     background-color: #E28625;
     border-radius: 8px;
+
 }
 
 .SUVs {
+    width: 307px;
+    height: 500px;
     background-color: #006971;
     /* border-radius: 8px; */
 }
 
 .Luxury {
+    width: 307px;
+    height: 500px;
     background-color: #004140;
     border-radius: 8px;
 }
